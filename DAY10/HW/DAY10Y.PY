@@ -9,4 +9,5 @@ print(90>70)#TRUE
 print(90<100)#TRUE
 print(5<20)#TRUE
 #explicity ნიშნავს როცა ყველაფერს პირდაპირ და ზუსტად ამბობ რაც უნდა გაკეთდეს implicity ნიშნავს რომ რაღაცას ავტომატურად აკეთებს ისე რომ არ ვამბობთ რას ვაკეთებთ
-10>1 #TRUE OR FALSE
+print(10>1) #TRUE OR FALSE
+print (10<1)
