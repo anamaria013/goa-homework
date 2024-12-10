@@ -1,2 +1,0 @@
-name="vano"
-print(name)
